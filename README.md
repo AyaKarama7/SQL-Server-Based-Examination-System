@@ -79,7 +79,7 @@ All operations (Insert, Update, Delete, Select) are handled through procedures t
 ---
 
 # 🚀 How to Use
-1. **Restore/Attach the Database** from provided `.bak` or `.sql` scripts.
+1. **Restore/Attach the Database** from provided `.bak`.
 2. Explore tables and relationships.
 3. Use Management Studio (SSMS) to execute stored procedures.
 4. Integrate with an application backend if needed!
